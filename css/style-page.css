@@ -51,5 +51,6 @@ a{
 }
 
 .paragrafo{
-  line-height: 25px
+  line-height: 25px;
+  width: 1200px;
 }
